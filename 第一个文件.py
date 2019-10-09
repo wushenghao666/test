@@ -9,6 +9,7 @@
    像began，started极度相近的词合在一起计算
    还有单复数...
 '''
+#我在这里加个注释看看？
 import wordcloud,time
 
 excludes = {'i','the','and','a','to','of','had','that','was',\
